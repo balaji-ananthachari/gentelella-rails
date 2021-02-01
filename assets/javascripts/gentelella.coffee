@@ -26,7 +26,6 @@
 #= require jquery.tagsinput
 #= require jquery.autocomplete
 #= require prettify
-#= require switchery
 #= require starrr
 #= require bootstrap-wysiwyg
 #= require select2-full
