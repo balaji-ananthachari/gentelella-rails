@@ -1,3 +1,6 @@
+Attempt to make Gentelella-rails Rails 6.0 compatible
+
+
 # Gentelella Rails
 
 This is mostly an experimental effort to inject the Gentelella theme into Rails assets pipeline.
